@@ -11,8 +11,8 @@
 
 // ACTION ITEM
 // vote di group tentang bahas exercise
-// Bikin group discord / slack ?
-// hosting dan domain di provide gak ?
+// Bikin group discord / slack ? done
+// hosting dan domain di provide gak ? di provide sama purwadhika
 
 
 // MATERI
