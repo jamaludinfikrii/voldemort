@@ -192,5 +192,4 @@ console.log(numbers.toString()[0])
 
 // ACTION ITEM
 // vote di group tentang bahas exercise
-// Cari tau penggunaan Every
 // cari cara buat jelasin callback vs calling other function // tonton juga di vidio di purwadhika
