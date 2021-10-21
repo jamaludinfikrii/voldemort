@@ -23,7 +23,6 @@
 
 // ACTION ITEM
 // Cari tau penggunaan Every
-// Discuss ke head lecturer, possibility assisten.
 // Function ada 3 parameter, yang ketiga gak tau buat apaan (session 5 di dalam function ngejelasin scope)
 // cari tau di vscode bisa ada browser di pojok
 
